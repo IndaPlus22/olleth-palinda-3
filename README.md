@@ -14,6 +14,8 @@
 4. What happens if you remove the default-case from the case-statement in the main function? 
 > If you remove the default-case from the case-statement in the main function, the program will not print anything if no message is received on the match channel. It will just exit without any notification.
 
+## Task 3 Runtime performance table
+
 | Variant | Runtime (ms) |
 | ------- | ------------ |
 | singleworker | 7.52 |
